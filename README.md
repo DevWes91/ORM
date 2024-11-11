@@ -105,6 +105,3 @@ For questions and support, please contact:
 - GitHub: [YourGitHubUsername](https://github.com/YourGitHubUsername)
 - Email: your.email@example.com
 
-## Demo
-[Link to Video Demo][
-](https://drive.google.com/file/d/1-Q1og044lVlPtPqLK2iEVgKWH-cmvMma/view?usp=drive_link)
